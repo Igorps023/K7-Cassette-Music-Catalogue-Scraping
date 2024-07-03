@@ -30,6 +30,7 @@ class Scraping:
             raise ValueError("URL is missing")
 
     def selenium_driver_close(self):
+        """Closes the webdriver"""
         if self.driver:
             self.driver.close()
         else:
