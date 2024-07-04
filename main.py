@@ -146,7 +146,7 @@ class Scraping:
 
         # Create dir
         dt_proc_full = self.get_timestamp_full()
-        directory = f"./data/{dt_proc_full}/"
+        directory = f"./data_selenium/{dt_proc_full}/"
         os.makedirs(directory, exist_ok=True)
 
         df.to_parquet(
