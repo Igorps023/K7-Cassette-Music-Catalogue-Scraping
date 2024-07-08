@@ -3,8 +3,8 @@ Scraping data from a website that heavily uses javascript with Selenium.
 
 ![alt text](image-2.png)
 
-The eda is located at eda.py
-The webcraping steps are located in main.py
+- The eda is located at eda.py
+- The webcraping steps are located in main.py
 
 #### Boxplot
 ![alt text](image.png)
@@ -23,8 +23,8 @@ The webcraping steps are located in main.py
 - Nota-se que boa parte dos dados estão concentrados à esquerda, e apresenta um pico de frequência próximo de R$ 80.
 
 #### Describe info
-Total de Produtos: 330
-Média de Preço: R$ 85.31
-Mediana de Preço: R$ 80.90
-Preço Mínimo: R$ 33.90
-Preço Máximo: R$ 873.90
+- Total de Produtos: 330
+- Média de Preço: R$ 85.31
+- Mediana de Preço: R$ 80.90
+- Preço Mínimo: R$ 33.90
+- Preço Máximo: R$ 873.90
